@@ -20,7 +20,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "keyboard",
+      title: "project",
       template: "./index.html",
       inject: "body",
       favicon: "./favicon.ico"
